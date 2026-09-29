@@ -1,0 +1,4 @@
+# Tkinter and the OpenFace executable are installed separately.
+Pillow>=11,<13
+opencv-python>=4.10,<5
+sounddevice>=0.5,<1
